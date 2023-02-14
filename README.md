@@ -1,2 +1,2 @@
-# Aprovacao_Credito
-Sistemas de Aprovação de Crédito
+# Aprovacao de Credito
+Sistemas de Aprovação de Crédito com Deploy.
