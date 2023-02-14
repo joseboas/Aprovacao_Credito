@@ -1,0 +1,1 @@
+streamlit run app_aprova_credito.py
